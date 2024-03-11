@@ -32,6 +32,16 @@
 defined( 'ABSPATH' ) || exit;
 
 /**
+ * Fns Helper Function
+ *
+ * @since 0.1.0
+ *
+ * @file Fns helper function added.
+ */
+
+ use OzoPanel\Helper\Fns;
+
+/**
  * OzoPanel Final Class
  *
  * @since 0.1.0

@@ -3,7 +3,7 @@
         'name' => 'wpozo/ozopanel',
         'pretty_version' => '0.1.0',
         'version' => '0.1.0.0',
-        'reference' => NULL,
+        'reference' => null,
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -373,7 +373,7 @@
         'wpozo/ozopanel' => array(
             'pretty_version' => '0.1.0',
             'version' => '0.1.0.0',
-            'reference' => NULL,
+            'reference' => null,
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
